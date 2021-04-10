@@ -1,5 +1,5 @@
 name: QQ2MC
-main: com.Main
-version: 1.0.0
+main: me.heartalborada.QQ-bot.Main
+version: 2.1.0
 author: heartalborada
 depend: [AmazingBot]
